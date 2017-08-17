@@ -237,7 +237,7 @@ Tips: this program will appear in the section 1.6.
 
 [Here](ex1_22.cpp) is the code.
 
-![run](https://db.tt/UlkuvpAS)
+)
 
 ## Exercise 1.23
 > Write a program that reads several transactions and counts
@@ -253,11 +253,11 @@ together.
 
 `data/book.txt` may be used as the records.
 
-![run](https://db.tt/EeDI7lvN)
+
 
 ## Exercise 1.25
 > Using the Sales_item.h header from the Web site, compile and execute the bookstore program presented in this section.
 
-It is the same as Exercise 1.22.
 
-![run](https://db.tt/C6OOPuzA)
+
+
