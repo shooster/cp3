@@ -205,13 +205,13 @@ If all of the input values are different
 
 > Compile and run the program from this section giving it only equal values as input. Run it again giving it values in which no number is repeated.
 
-![run](https://db.tt/F38zExnq)
+
 
 ## Exercise 1.19
 
 > Revise the program you wrote for the exercises in § 1.4.1 (p. 13) that printed a range of numbers so that it handles input in which the first number is smaller than the second.
 
-[code](https://github.com/pezy/Cpp-Primer/blob/master/ch01/ex1_11.cpp)
+
 
 ## Exercise 1.20
 
